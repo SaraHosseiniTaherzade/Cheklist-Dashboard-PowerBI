@@ -1,1 +1,1 @@
-# Cheklist-Dashboard-PowerBI
+# Checklist-Dashboard-PowerBI
